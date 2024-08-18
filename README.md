@@ -2,3 +2,4 @@
 - estado del proyecto: en construcción.
 Para ejecutar el sistema, debes poner:
 '''nmp install react'''
+Sistema de registro 2
